@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "septic-system-installation",
+    "title": "Septic System Installation",
+    "category": "Septic Systems",
+    "location": "",
+    "summary": "Excavation and installation work for a residential septic system.",
+    "coverImage": "assets/images/projects/septic-system-installation/cover.jpg",
+    "images": [
+      {
+        "src": "assets/images/projects/septic-system-installation/photo-01.jpg",
+        "alt": "Excavator placing stone around a residential septic system excavation"
+      },
+      {
+        "src": "assets/images/projects/septic-system-installation/photo-02.jpg",
+        "alt": "Two Infiltrator chambers set in a sand bed during septic installation"
+      },
+      {
+        "src": "assets/images/projects/septic-system-installation/photo-03.jpg",
+        "alt": "Stone septic bed with distribution piping beside an excavator"
+      },
+      {
+        "src": "assets/images/projects/septic-system-installation/photo-04.jpg",
+        "alt": "Hatch Excavation backhoe and excavator at a winter work site"
+      }
+    ],
+    "featured": true,
+    "date": "",
+    "status": "published",
+    "_verificationNote": "Project type is supported by the original website and archived photo captions. Location and date were not published."
+  },
+  {
+    "slug": "dirt-road-resurfacing",
+    "title": "Dirt Road Resurfacing",
+    "category": "Road Work",
+    "location": "",
+    "summary": "York rake work used to prepare and resurface a dirt road.",
+    "coverImage": "assets/images/projects/dirt-road-resurfacing/cover.jpg",
+    "images": [
+      {
+        "src": "assets/images/projects/dirt-road-resurfacing/photo-01.jpg",
+        "alt": "Skid steer equipped with a wide York rake for dirt road resurfacing"
+      }
+    ],
+    "featured": true,
+    "date": "",
+    "status": "published",
+    "_verificationNote": "Description follows the caption on the original contact page. Location and date were not published."
+  },
+  {
+    "slug": "snow-services",
+    "title": "Snow Plowing & Sanding",
+    "category": "Snow",
+    "location": "",
+    "summary": "Truck-mounted plowing and sanding equipment used for winter service.",
+    "coverImage": "assets/images/projects/snow-services/cover.jpg",
+    "images": [
+      {
+        "src": "assets/images/projects/snow-services/photo-01.jpg",
+        "alt": "Hatch Excavation dump truck fitted with a snowplow and material spreader"
+      },
+      {
+        "src": "assets/images/projects/snow-services/photo-02.jpg",
+        "alt": "Hatch Excavation one-ton dump truck fitted with a material spreader"
+      }
+    ],
+    "featured": true,
+    "date": "",
+    "status": "published",
+    "_verificationNote": "Equipment and service type are visible in archived company photos. Location and date were not published."
+  },
+  {
+    "slug": "sample-project",
+    "title": "SAMPLE — Replace With Project Title",
+    "category": "Foundations",
+    "location": "TODO: Town, Maine",
+    "summary": "SAMPLE CONTENT — Replace this sentence with a short factual description of the work.",
+    "coverImage": "assets/images/projects/sample-project/cover.jpg",
+    "images": [
+      {
+        "src": "assets/images/projects/sample-project/photo-01.jpg",
+        "alt": "SAMPLE ALT TEXT — describe the equipment and work shown"
+      }
+    ],
+    "featured": false,
+    "date": "",
+    "status": "sample",
+    "_verificationNote": "Documentation-only sample. Change status to published only after replacing every sample field and photo."
+  }
+]
